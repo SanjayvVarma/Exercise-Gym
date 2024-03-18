@@ -1,0 +1,23 @@
+
+
+.container_h1_p {
+    text-align: center;
+    margin: 1rem;
+    font-size: 20px;
+}
+
+.container-images {
+    margin: 1rem;
+}
+
+.container-images1 {
+    display: flex;
+    gap: 1.5rem;
+    padding: 1rem;
+    border: 1px solid gray;
+}
+
+.container-images1 img {
+    height: 30rem;
+    width: 29rem;
+}
